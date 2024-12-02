@@ -12,4 +12,4 @@ source bin/activate
 
 ## Resources
 - [New Changes to Decryption](https://gist.github.com/kosh04/36cf6023fb75b516451ce933b9db2207?permalink_comment_id=5291243#gistcomment-5291243)
-
+- [Encryption Format for Chrome Browser Cookies](https://gist.github.com/creachadair/937179894a24571ce9860e2475a2d2e12c)
