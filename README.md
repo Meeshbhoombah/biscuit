@@ -1,8 +1,6 @@
 # Biscuit
 An experiment into Google's Chrome Cookies
 
-What does it take to decrypt Chrome Cookies?
-
 ## Getting Started
 ### Development
 Activate the virtual environment.
